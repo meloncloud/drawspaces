@@ -1,6 +1,8 @@
 drawspaces
 ========== 
 
+sergio6678@gmail.com
+
 Version 0.4
 
 Generador de zonas geograficas para mapas ( PHP , MySQL , Jquery , Google Maps)
