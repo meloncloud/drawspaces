@@ -23,7 +23,10 @@ Caracteristicas:
 Proximamente :
 
 - Listado y visualizacion de todas las zonas creadas.
-- Mas carateristicas editables.
+- Edicion de zonas.
+- Soporte MongoDB
+- Calculo de aproximacion a perimetro.
+
 
 
 
