@@ -1,7 +1,7 @@
 drawspaces
 ========== 
 
-sergio6678@gmail.com
+
 
 Version 0.4
 
